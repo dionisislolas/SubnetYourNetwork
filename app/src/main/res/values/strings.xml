@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">SubnetYourNetwork</string>
+    <string name="action_settings">Settings</string>
+    <string name="promptForIpAddEn">IPv4 address</string>
+    <string name="promptForSubnetMaskEn">Subnet mask</string>
+    <string name="promptForNumberOfSubnetsEn">Subnets required</string>
+    <string name="promptForNumberOfHostsEn">Hosts required</string>
+    <string name="okStr">OK</string>
+    <string name="title_activity_get_requirements">GetRequirementsActivity</string>
+    <string name="hello_world">Hello world!</string>
+</resources>
